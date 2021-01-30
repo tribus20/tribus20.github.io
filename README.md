@@ -2,6 +2,7 @@
 <hr>
 
 ## **About Us**
+We are a Jaipur based software solution providing company established in 2020. We mainly focus on Web development and Mobile development.
 <hr>
 
 ### Our Mission 
